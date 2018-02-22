@@ -20,20 +20,15 @@ PROBLEMS?
 
 -->
 
-# cs103-S2018-lab5-solution
+# cs103-S2018-lab5-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the solution for Laboratory 5 in Computer Science 103.
-
-<!--
-
- Since the Travis builds for this repository will initially fail (as evidenced by
- a red &#x2717; appearing in the commit logs instead of a green &#x2714;), the
- programmer is responsible for completing all of the steps needed to satisfy the
- requirements for the assignment, thus causing a &#x2714; to instead appear in
- the commit logs.
-
--->
+repository contains the starter for Laboratory 5 in Computer Science 103. Since
+the Travis builds for this repository will initially fail (as evidenced by a
+red &#x2717; appearing in the commit logs instead of a green &#x2714;), the
+programmer is responsible for completing all of the steps needed to satisfy the
+requirements for the assignment, thus causing a &#x2714; to instead appear in
+the commit logs.
 
 ## Introduction
 
